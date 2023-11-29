@@ -62,15 +62,17 @@
 
    .descriptions {
       margin-left: 0;
-      margin: 7%;   
+      margin: 7%;
+      margin-top: 11%;   
    }
 
    .second_des {
       width: 100%;
+      letter-spacing: 1px;
    }
 
    .second_des h1 {
-      font-size: 23px;
+      font-size: 22px;
    }
 
    .containerImage {
