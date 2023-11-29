@@ -62,15 +62,15 @@
 
    .descriptions {
       margin-left: 0;
-      margin: 10vh auto;
+      margin: 7%;   
    }
 
    .second_des {
-      width: 90%;
+      width: 100%;
    }
 
    .second_des h1 {
-      font-size: 25px;
+      font-size: 23px;
    }
 
    .containerImage {
